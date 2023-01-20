@@ -32,8 +32,12 @@
 //
 //////////////////////////////////////////////////
 
+// using vex library
 #include "vex.h"
+
 #include "drivePower.cpp"
+
+// using vex namespace
 using namespace vex;
 
 // A global instance of competition
